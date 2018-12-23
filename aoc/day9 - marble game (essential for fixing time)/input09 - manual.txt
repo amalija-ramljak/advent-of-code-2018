@@ -1,0 +1,3 @@
+# needs to be entered manually
+players 412
+marbles 71646
