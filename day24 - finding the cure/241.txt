@@ -1,0 +1,4 @@
+imm 17 5390 4507 fire 2 0 2 radiation bludgeoning
+imm 989 1274 25 slashing 3 1 fire 2 bludgeoning slashing
+inf 801 4706 116 bludgeoning 1 0 1 radiation
+inf 4485 2961 12 slashing 4 1 radiation 2 fire cold

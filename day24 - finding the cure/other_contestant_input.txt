@@ -1,0 +1,20 @@
+imm 4592 2061 4 fire 9 2 slashing radiation 1 cold
+imm 1383 3687 26 radiation 15 0 0
+imm 2736 6429 20 slashing 2 1 slashing 0
+imm 777 3708 39 cold 4 2 radiation cold 2 slashing fire
+imm 6761 2792 3 radiation 17 4 bludgeoning fire cold slashing 0
+imm 6028 5537 7 radiation 6 1 slashing 0
+imm 2412 2787 9 bludgeoning 20 0 0
+imm 6042 7747 12 slashing 12 1 radiation 0
+imm 1734 7697 38 cold 10 0 2 radiation cold
+imm 4391 3250 7 cold 19 0 0
+inf 820 46229 106 slashing 18 2 cold bludgeoning 0
+inf 723 30757 80 fire 3 0 1 bludgeoning
+inf 2907 51667 32 fire 1 1 bludgeoning 1 slashing
+inf 2755 49292 34 fire 5 0 1 bludgeoning
+inf 5824 24708 7 bludgeoning 11 4 bludgeoning cold radiation slashing 0
+inf 7501 6943 1 radiation 8 1 slashing 1 cold
+inf 573 10367 30 radiation 16 0 2 slashing cold
+inf 84 31020 639 slashing 14 0 1 cold
+inf 2063 31223 25 cold 13 1 bludgeoning 1 radiation
+inf 214 31088 271 slashing 7 0 1 fire
