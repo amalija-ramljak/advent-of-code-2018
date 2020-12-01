@@ -58,7 +58,7 @@ Other:
 
 :eight_spoked_asterisk: :eight_spoked_asterisk: Day 14 - Hot Chocolate: Herbalism Was Worth It
 
-:eight_pointed_black_star: :eight_pointed_black_star: Day 15 - Blood and Honour and Chocolate
+:eight_pointed_black_star: :eight_pointed_black_star: Day 15 - Blood and Honour and Chocolate: How I Can't Implement A*
 
 :eight_spoked_asterisk: :eight_spoked_asterisk: Day 16 - To Assemble the Watch, or to Freeze in Year 18
 
